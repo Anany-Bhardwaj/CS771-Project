@@ -2,7 +2,7 @@
 
 This repository contains the assignments and course projects completed for **CS771: Introduction to Machine Learning** under Prof. Purushottam Kar.
 
-> **Note:** The implementation files and notebooks for these projects are currently being refactored, cleaned up, and documented. The codebase will be pushed to this repository shortly.
+> **Note:** **Assignment 2** will be uploaded to this repository upon its completion.
 
 ## Project: Cryptographic PUF Modeling & Statistical Inference
 
